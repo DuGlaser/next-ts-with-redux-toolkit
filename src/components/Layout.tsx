@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import Link from 'next/link';
-import React, { ReactNode } from 'react';
+import React from 'react';
 
 type Props = {
   title?: string;
